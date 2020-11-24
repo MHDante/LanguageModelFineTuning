@@ -18,7 +18,7 @@ sacremoses==0.0.43
 sentencepiece==0.1.91
 six==1.15.0
 tokenizers==0.9.3
-torch==1.7.0+cu110
+torch==1.7.0
 torchaudio==0.7.0
 torchvision==0.8.1+cu110
 tqdm==4.53.0
